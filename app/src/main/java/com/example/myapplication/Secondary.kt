@@ -32,5 +32,6 @@ class Secondary: AppCompatActivity() {
 
             findViewById<Spinner>(R.id.spinner2).adapter = adapter
         }
+
     }
 }
