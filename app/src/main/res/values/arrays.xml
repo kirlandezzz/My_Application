@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_array">
+        <item>Element 1</item>
+        <item>Element 2</item>
+        <item>Element 3</item>
+        <!-- Add more items here -->
+    </string-array>
+    <string-array name="spinner2_array">
+        <item>Element 1</item>
+        <item>Element 2</item>
+        <item>Element 3</item>
+        <!-- Add more items here -->
+    </string-array>
+</resources>
